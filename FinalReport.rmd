@@ -67,7 +67,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-These two charts breakdown a numerical version of the previous bar charts and the rate at which test subjects contract AIDS based on their treatment group. As seen in both the top and bottom, those that tested positive for AIDS were about three times as likely to fall into the placebo category than the drug user category. This proves that the treatment method is effective at preventing the contraction of AIDS but it does not have a 100% success rate. 
+These two charts break down a numerical version of the previous bar charts and the rate at which test subjects contract AIDS based on their treatment group. As seen in both the top and bottom, those that tested positive for AIDS were about three times as likely to fall into the placebo category than the drug user category. This proves that the treatment method is effective at preventing the contraction of AIDS but it does not have a 100% success rate. 
 
 ## Inferential Results
 
