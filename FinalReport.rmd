@@ -51,6 +51,12 @@ barchartGC(~infected + treatment,data=drug_users, type="percent")
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+table1 <- xtabs(~infected + treatment, data=drug_users)
+rowPerc(table1)
+colPerc(table1)
+```
+
 
 ## Inferential Results
 
