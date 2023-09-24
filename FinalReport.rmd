@@ -51,6 +51,11 @@ barchartGC(~infected + treatment,data=drug_users, type="percent")
 
 ```
 
+This code has created two bar charts in which the first shows the total number of people involved in this statistical analysis. 
+
+Chart 1 suggests that most of the people who are a drug users contract AIDS less frequently than people in the placebo category. However, this does not give the clearest picture of the effectiveness of the drug. 
+
+Chart 2 expresses the data as a percentage and therefore it becomes clear that the percentage of people contracting AIDS on the drug (~25%) when compared to the placebo (~75%) is significantly fewer. 
 
 
 ### Numerical Descriptive Results
