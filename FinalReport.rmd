@@ -78,9 +78,11 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-
+There are three inferential tests that we ran in this section with two being Chi-Squared Tests and the other being a Fisher Exact Test. The Chi-Squared Tests give us a very minute p-value of about 0.0000001242 which is far lower than the typical 0.05 that informally suggests the cutoff for a significance of data. The Chi-Squared value of -28 is much larger than the critical value for degrees of freedom, which in this data set is (1). All three of these tests suggest that there is a statistical significance in results. 
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
